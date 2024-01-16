@@ -24,7 +24,6 @@ requirements:
   run:
     - python >=3.6
     - setuptools
-    - numpy
 
 about:
   home: https://pypi.org/project/joblib/
