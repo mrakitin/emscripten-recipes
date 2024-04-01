@@ -6,3 +6,5 @@ sandbox
 .ipynb_checkpoints/
 Untitled.ipynb
 .DS_Store
+.pyodide-xbuildenv/
+emsdk_install/
